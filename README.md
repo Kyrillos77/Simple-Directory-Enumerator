@@ -13,5 +13,6 @@ A basic Python tool to perform directory brute-forcing on a target web server us
 
 - Python 3.x
 - `requests` library  
-  Install it using:  
+  Install it using:
+  ```bash  
     'pip install requests'
