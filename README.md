@@ -16,3 +16,9 @@ A basic Python tool to perform directory brute-forcing on a target web server us
   Install it using:
   ```bash  
     'pip install requests'
+
+## Usage
+
+```bash
+python SDE.py example.com
+
